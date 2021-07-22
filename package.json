@@ -1,0 +1,14 @@
+{
+    "name": "trillo",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.3.1",
+        "cssnano": "^5.0.6",
+        "postcss": "^8.3.5",
+        "sass": "^1.35.2",
+        "vite": "^2.4.2"
+    }
+}
